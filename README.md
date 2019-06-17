@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/b-ridge-pr/43f99f40-23fa-47d0-ab79-30413f917c6b/6ec08fa3-88c5-4963-b71c-38e0934754e6/_apis/work/boardbadge/ad6c991c-d1ac-4c29-a58f-03601dca6bbd)](https://dev.azure.com/b-ridge-pr/43f99f40-23fa-47d0-ab79-30413f917c6b/_boards/board/t/6ec08fa3-88c5-4963-b71c-38e0934754e6/Microsoft.RequirementCategory)
 # PDF.js
 
 PDF.js is a Portable Document Format (PDF) viewer that is built with HTML5.
